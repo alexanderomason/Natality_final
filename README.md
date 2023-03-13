@@ -1,4 +1,4 @@
-# Natality_final
+# Natality Exploritory Analysis
 Infant Mortality 
 
 This jupyter notebook explores the viability of using various types of classifiers to predict the survival of an infant based on data available from the birth certificate. The data is from https://www.nber.org/research/data/linked-birthinfant-death-cohort-data for the year 2015. 
